@@ -1,4 +1,4 @@
-# DataHomework1
+# Excel
 
 For this project, I organized and analyzed a database of four thousand past Kickstarter projects in order to uncover any hidden trends.
 
